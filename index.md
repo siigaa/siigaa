@@ -35,7 +35,7 @@ PCA Express www.pcaexpress.com.au
 顶世国际物流 www.topshey.com   
 彩虹速递 rainboweasy.com
 星速递 www.starex.com.au
-易达通 qexpress.co.nz
+易达通 qexpress.co.nz  
 大快递 www.bigexpress.com.au   
 FQ狂派速递 www.freakyquick.com.au   
 天越物流 www.surpass-go.com   
@@ -46,6 +46,3 @@ FQ狂派速递 www.freakyquick.com.au
 捷安达/捷运专线 www.giantpost.com.au    
 
 网站正在更新中，请期待更多内容！
-
-
-友情链接：<a href="https://m.kuaidi100.com/" target="_blank">快递查询</a>
